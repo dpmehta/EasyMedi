@@ -40,3 +40,5 @@ data of patient.</ul>
 <ul>Portal will be available on your local server</ul>
 
 <p>static-templates remaining</p>
+
+SO , Contributed in open source project that is made available by goverment
